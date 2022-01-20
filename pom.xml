@@ -59,11 +59,4 @@
         </plugin>
         </plugins>
     </build>
-    <distributionManagement>
-        <repository>
-            <id>bintray-hegdepranav-pranavjfrogtest</id>
-            <name>hegdepranav-pranavjfrogtest</name>
-            <url>https://api.bintray.com/maven/hegdepranav/pranavjfrogtest/test1/;publish=1</url>
-        </repository>
-    </distributionManagement>
 </project>
